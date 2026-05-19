@@ -19,6 +19,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+<img width="685" height="395" alt="image" src="https://github.com/user-attachments/assets/a0e860db-1777-49cf-a43f-a261fe002ae4" />
 
 
  
@@ -28,4 +29,5 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Output :
 
 ## Result :
+<img width="521" height="251" alt="image" src="https://github.com/user-attachments/assets/56314209-4768-4370-8669-5837241715bc" />
 
