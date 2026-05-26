@@ -28,6 +28,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Output :
 
-## Result :
-<img width="521" height="251" alt="image" src="https://github.com/user-attachments/assets/56314209-4768-4370-8669-5837241715bc" />
 
+<img width="521" height="251" alt="image" src="https://github.com/user-attachments/assets/56314209-4768-4370-8669-5837241715bc" />
+## Result :
+Thus, the program has been executed successfully and the required parameters have been calculated as per the given
+conditions.
